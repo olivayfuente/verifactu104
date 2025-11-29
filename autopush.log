@@ -3243,3 +3243,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY main
 [AutoPush] Cambio detectado: DELETE HEAD.lock
 [AutoPush] Cambio detectado: CREATE maintenance.lock
+[AutoPush] Cambio detectado: DELETE maintenance.lock
