@@ -1302,3 +1302,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY autopush.log
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE,ISDIR 42
+[AutoPush] Cambio detectado: CREATE tmp_obj_7nz5NX
