@@ -6915,3 +6915,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_Cd0ygu
 [AutoPush] Cambio detectado: CREATE 20ea93f45691e8bde7c699a012494ac2abb3ff
 [AutoPush] Cambio detectado: DELETE tmp_obj_Cd0ygu
+[AutoPush] Cambio detectado: CREATE HEAD.lock
