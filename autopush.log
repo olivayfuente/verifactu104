@@ -5209,3 +5209,4 @@ Watches established.
 [AutoPush] Cambio detectado: DELETE tmp_obj_i7r0R4
 [AutoPush] Cambio detectado: MODIFY index.lock
 [AutoPush] Cambio detectado: CREATE index.lock
+[AutoPush] Cambio detectado: MODIFY index.lock
