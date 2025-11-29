@@ -331,3 +331,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE tmp_obj_HifGbw
 [AutoPush] Cambio detectado: MODIFY tmp_obj_HifGbw
 [AutoPush] Cambio detectado: CREATE 60370ece0b7f02104b57117d8de7af1d776448
+[AutoPush] Cambio detectado: DELETE tmp_obj_HifGbw
