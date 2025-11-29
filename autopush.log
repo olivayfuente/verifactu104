@@ -1513,3 +1513,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_FDqEzb
 [AutoPush] Cambio detectado: CREATE 568b14e0d40a53f11d17f47ef8a11c48d611ed
 [AutoPush] Cambio detectado: DELETE tmp_obj_FDqEzb
+[AutoPush] Cambio detectado: CREATE HEAD.lock
