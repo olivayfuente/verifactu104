@@ -4692,3 +4692,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_0GwSrh
 [AutoPush] Cambio detectado: CREATE 41558d6d2f8de2197287c57bcbacd7445a0295
 [AutoPush] Cambio detectado: DELETE tmp_obj_0GwSrh
+[AutoPush] Cambio detectado: CREATE HEAD.lock
