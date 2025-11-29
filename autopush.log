@@ -210,3 +210,4 @@ Watches established.
 [AutoPush] Cambio detectado: DELETE tmp_obj_MWbbHv
 [AutoPush] Cambio detectado: MODIFY index.lock
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: CREATE index.lock
