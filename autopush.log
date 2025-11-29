@@ -1296,3 +1296,4 @@ Watches established.
 [AutoPush] Cambio detectado: DELETE maintenance.lock
 [AutoPush] Cambio detectado: CREATE prueba_autopush_ok.txt
 [AutoPush] Cambio detectado: MODIFY prueba_autopush_ok.txt
+[AutoPush] Cambio detectado: CREATE main.lock
