@@ -5922,3 +5922,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_zhdJJX
 [AutoPush] Cambio detectado: CREATE 2907efeb0c74379c12b5505b3c0e310e8a92ac
 [AutoPush] Cambio detectado: DELETE tmp_obj_zhdJJX
+[AutoPush] Cambio detectado: CREATE HEAD.lock
