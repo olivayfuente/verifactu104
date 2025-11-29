@@ -6400,3 +6400,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_IEUC9j
 [AutoPush] Cambio detectado: CREATE 5e03784bb55ff158bde9adbecf6fa5f5a188f5
 [AutoPush] Cambio detectado: DELETE tmp_obj_IEUC9j
+[AutoPush] Cambio detectado: CREATE HEAD.lock
