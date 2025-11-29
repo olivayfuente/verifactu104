@@ -6420,3 +6420,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY index.lock
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE,ISDIR 12
+[AutoPush] Cambio detectado: MODIFY index.lock
