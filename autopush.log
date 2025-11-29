@@ -3440,3 +3440,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_9dCLKH
 [AutoPush] Cambio detectado: CREATE 9b5e683c4faeaed3c73ee27dc07ce785d15743
 [AutoPush] Cambio detectado: DELETE tmp_obj_9dCLKH
+[AutoPush] Cambio detectado: CREATE HEAD.lock
