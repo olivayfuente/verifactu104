@@ -3709,3 +3709,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_A4d2k4
 [AutoPush] Cambio detectado: CREATE 8eb73c95b5965ecc2491f3e74505d5f09df9ce
 [AutoPush] Cambio detectado: DELETE tmp_obj_A4d2k4
+[AutoPush] Cambio detectado: MODIFY index.lock
