@@ -2975,3 +2975,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY COMMIT_EDITMSG
 [AutoPush] Cambio detectado: CREATE,ISDIR 2c
 [AutoPush] Cambio detectado: CREATE HEAD.lock
+[AutoPush] Cambio detectado: CREATE main.lock
