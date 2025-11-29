@@ -5245,3 +5245,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY main.lock
 [AutoPush] Cambio detectado: MODIFY main
 [AutoPush] Cambio detectado: MODIFY autopush.log
+[AutoPush] Cambio detectado: CREATE index.lock
