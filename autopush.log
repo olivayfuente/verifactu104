@@ -4061,3 +4061,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE 6e020d5ddf757182f658a6359263c053852b02
 [AutoPush] Cambio detectado: DELETE tmp_obj_tYfeuf
 [AutoPush] Cambio detectado: CREATE HEAD.lock
+[AutoPush] Cambio detectado: CREATE main.lock
