@@ -2439,3 +2439,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY index.lock
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE,ISDIR ce
+[AutoPush] Cambio detectado: MODIFY index.lock
