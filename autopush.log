@@ -1671,3 +1671,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_di0aOd
 [AutoPush] Cambio detectado: CREATE 5c412e5f29f1a00b4f8e503d2c3b9151455a31
 [AutoPush] Cambio detectado: DELETE tmp_obj_di0aOd
+[AutoPush] Cambio detectado: MODIFY index.lock
