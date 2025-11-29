@@ -6360,3 +6360,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY autopush.log
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: CREATE index.lock
