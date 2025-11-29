@@ -3417,3 +3417,4 @@ Watches established.
 [AutoPush] Cambio detectado: DELETE tmp_obj_e0Gf5X
 [AutoPush] Cambio detectado: MODIFY index.lock
 [AutoPush] Cambio detectado: MODIFY COMMIT_EDITMSG
+[AutoPush] Cambio detectado: CREATE,ISDIR 99
