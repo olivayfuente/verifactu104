@@ -6862,3 +6862,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE tmp_obj_msVHz2
 [AutoPush] Cambio detectado: MODIFY tmp_obj_msVHz2
 [AutoPush] Cambio detectado: CREATE f5b84a5cf9fe0f99b5fe4b1777b7f63d2a3b65
+[AutoPush] Cambio detectado: DELETE tmp_obj_msVHz2
