@@ -2297,3 +2297,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_a1EQMQ
 [AutoPush] Cambio detectado: CREATE ca2d5ff90e08b21906a639ad68f8743c352e5a
 [AutoPush] Cambio detectado: DELETE tmp_obj_a1EQMQ
+[AutoPush] Cambio detectado: MODIFY index.lock
