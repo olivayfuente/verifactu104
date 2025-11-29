@@ -5998,3 +5998,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_KYsOKd
 [AutoPush] Cambio detectado: CREATE 7fa2d3d7517842e4c6b8bba65909d6060049b7
 [AutoPush] Cambio detectado: DELETE tmp_obj_KYsOKd
+[AutoPush] Cambio detectado: CREATE HEAD.lock
