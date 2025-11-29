@@ -648,3 +648,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_hoAsB2
 [AutoPush] Cambio detectado: CREATE 5722c1cc0efccd13f08e52060e3d2306cd227f
 [AutoPush] Cambio detectado: DELETE tmp_obj_hoAsB2
+[AutoPush] Cambio detectado: MODIFY index.lock
