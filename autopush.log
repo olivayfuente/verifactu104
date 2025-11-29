@@ -3918,3 +3918,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_SNOC0d
 [AutoPush] Cambio detectado: CREATE 9a3558a07c7468eb10b4c3ee05558ffed165c2
 [AutoPush] Cambio detectado: DELETE tmp_obj_SNOC0d
+[AutoPush] Cambio detectado: MODIFY index.lock
