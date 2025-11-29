@@ -1507,3 +1507,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_DATnvb
 [AutoPush] Cambio detectado: CREATE 430c18c3faaf0125ba9c2a89ae8e194ad263f2
 [AutoPush] Cambio detectado: DELETE tmp_obj_DATnvb
+[AutoPush] Cambio detectado: MODIFY index.lock
