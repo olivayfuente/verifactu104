@@ -5331,3 +5331,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_CmhvPI
 [AutoPush] Cambio detectado: CREATE a27aa0a749ac34542743b0034c08fbd9e60488
 [AutoPush] Cambio detectado: DELETE tmp_obj_CmhvPI
+[AutoPush] Cambio detectado: CREATE HEAD.lock
