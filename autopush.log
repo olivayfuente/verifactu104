@@ -437,3 +437,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_9RUn5O
 [AutoPush] Cambio detectado: CREATE 13a8e6515fdef809fcbced89496bb2abf1fa95
 [AutoPush] Cambio detectado: DELETE tmp_obj_9RUn5O
+[AutoPush] Cambio detectado: CREATE HEAD.lock
