@@ -2865,3 +2865,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_1V5eCU
 [AutoPush] Cambio detectado: CREATE 42e48a0855670a1cf986114b4a85f3cf79fcab
 [AutoPush] Cambio detectado: DELETE tmp_obj_1V5eCU
+[AutoPush] Cambio detectado: CREATE HEAD.lock
