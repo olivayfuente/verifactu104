@@ -762,3 +762,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_XVt4wW
 [AutoPush] Cambio detectado: CREATE 9ba264be7172761b46996007e9783b8ebecbea
 [AutoPush] Cambio detectado: DELETE tmp_obj_XVt4wW
+[AutoPush] Cambio detectado: CREATE HEAD.lock
