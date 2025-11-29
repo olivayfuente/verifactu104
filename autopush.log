@@ -2138,3 +2138,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_5hoXYs
 [AutoPush] Cambio detectado: CREATE 30ae354e2792d122d74357b76f0d5d60bb1901
 [AutoPush] Cambio detectado: DELETE tmp_obj_5hoXYs
+[AutoPush] Cambio detectado: CREATE HEAD.lock
