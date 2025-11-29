@@ -534,3 +534,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_dlMY71
 [AutoPush] Cambio detectado: CREATE 03b09c77af106007dbd40bdff2fb78f531dca1
 [AutoPush] Cambio detectado: DELETE tmp_obj_dlMY71
+[AutoPush] Cambio detectado: MODIFY index.lock
