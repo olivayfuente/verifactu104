@@ -205,3 +205,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE,ISDIR e6
 [AutoPush] Cambio detectado: CREATE tmp_obj_MWbbHv
+[AutoPush] Cambio detectado: MODIFY tmp_obj_MWbbHv
