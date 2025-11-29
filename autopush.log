@@ -798,3 +798,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_6gCChB
 [AutoPush] Cambio detectado: CREATE 68f0f3eae8ed4bb25e8772f10b643d517a9b4e
 [AutoPush] Cambio detectado: DELETE tmp_obj_6gCChB
+[AutoPush] Cambio detectado: CREATE HEAD.lock
