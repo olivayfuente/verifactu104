@@ -3143,3 +3143,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_SDAehD
 [AutoPush] Cambio detectado: CREATE fb4832c5c7057c9cb2d3f9eba6ee6c2aeffca3
 [AutoPush] Cambio detectado: DELETE tmp_obj_SDAehD
+[AutoPush] Cambio detectado: CREATE HEAD.lock
