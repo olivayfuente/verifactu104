@@ -3276,3 +3276,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE 0ddd765a78035a15e231b832851eb957ff9eb3
 [AutoPush] Cambio detectado: DELETE tmp_obj_F5HBLO
 [AutoPush] Cambio detectado: CREATE HEAD.lock
+[AutoPush] Cambio detectado: CREATE main.lock
