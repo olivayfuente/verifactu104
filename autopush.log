@@ -556,3 +556,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY test_auto.txt
 [AutoPush] Cambio detectado: CREATE main.lock
 [AutoPush] Cambio detectado: MODIFY main.lock
+[AutoPush] Cambio detectado: MODIFY main
