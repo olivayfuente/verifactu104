@@ -1628,3 +1628,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_yAPU6M
 [AutoPush] Cambio detectado: CREATE 665f4a01dbad09fe066b34ec6457cdc7b60594
 [AutoPush] Cambio detectado: DELETE tmp_obj_yAPU6M
+[AutoPush] Cambio detectado: CREATE HEAD.lock
