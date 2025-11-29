@@ -2179,3 +2179,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE,ISDIR 3b
 [AutoPush] Cambio detectado: MODIFY index.lock
 [AutoPush] Cambio detectado: MODIFY COMMIT_EDITMSG
+[AutoPush] Cambio detectado: CREATE,ISDIR 3c
