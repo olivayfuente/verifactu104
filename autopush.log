@@ -2681,3 +2681,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE e864766af97a4b1d31b6e5fc981dd4d724513a
 [AutoPush] Cambio detectado: DELETE tmp_obj_TILU8a
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: CREATE index.lock
