@@ -3486,3 +3486,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_ykMlgk
 [AutoPush] Cambio detectado: CREATE 930b4dc8993898f16eea73e207a8f5a2f591a1
 [AutoPush] Cambio detectado: DELETE tmp_obj_ykMlgk
+[AutoPush] Cambio detectado: CREATE HEAD.lock
