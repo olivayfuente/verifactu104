@@ -1140,3 +1140,4 @@ Watches established.
 [AutoPush] Cambio detectado: DELETE tmp_obj_fEsQte
 [AutoPush] Cambio detectado: CREATE HEAD.lock
 [AutoPush] Cambio detectado: CREATE main.lock
+[AutoPush] Cambio detectado: MODIFY main.lock
