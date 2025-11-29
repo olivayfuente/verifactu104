@@ -6326,3 +6326,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_ORcng5
 [AutoPush] Cambio detectado: CREATE 681cbe789ad35b775eddaf767503c054ab3c72
 [AutoPush] Cambio detectado: DELETE tmp_obj_ORcng5
+[AutoPush] Cambio detectado: MODIFY index.lock
