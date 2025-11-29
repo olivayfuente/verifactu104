@@ -1446,3 +1446,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE,ISDIR 81
 [AutoPush] Cambio detectado: CREATE HEAD.lock
 [AutoPush] Cambio detectado: CREATE main.lock
+[AutoPush] Cambio detectado: MODIFY main.lock
