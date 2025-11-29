@@ -2794,3 +2794,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE 7f51417f7317b792413453d7a56405dc1f0582
 [AutoPush] Cambio detectado: DELETE tmp_obj_EKKECD
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: CREATE index.lock
