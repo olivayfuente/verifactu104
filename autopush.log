@@ -3567,3 +3567,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_pAIbId
 [AutoPush] Cambio detectado: CREATE ac14b40187ed36854f940ca7b6a43e8a271654
 [AutoPush] Cambio detectado: DELETE tmp_obj_pAIbId
+[AutoPush] Cambio detectado: MODIFY index.lock
