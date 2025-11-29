@@ -98,3 +98,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE,ISDIR 65
 [AutoPush] Cambio detectado: CREATE tmp_obj_FWSqOg
+[AutoPush] Cambio detectado: MODIFY tmp_obj_FWSqOg
