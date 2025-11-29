@@ -886,3 +886,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE,ISDIR 08
 [AutoPush] Cambio detectado: CREATE tmp_obj_J9kxaU
+[AutoPush] Cambio detectado: MODIFY tmp_obj_J9kxaU
