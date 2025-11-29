@@ -1470,3 +1470,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_NGxvbV
 [AutoPush] Cambio detectado: CREATE 5ebcb051704cce2d7dd3e92d6a61479d2280b7
 [AutoPush] Cambio detectado: DELETE tmp_obj_NGxvbV
+[AutoPush] Cambio detectado: CREATE HEAD.lock
