@@ -6528,3 +6528,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE d8782a799611e3c4115323def55dfecea9511f
 [AutoPush] Cambio detectado: DELETE tmp_obj_Hwjkin
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: CREATE index.lock
