@@ -713,3 +713,4 @@ Watches established.
 [AutoPush] Cambio detectado: DELETE tmp_obj_G1QTEi
 [AutoPush] Cambio detectado: MODIFY index.lock
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: CREATE index.lock
