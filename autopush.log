@@ -7017,3 +7017,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_iOa2Mg
 [AutoPush] Cambio detectado: CREATE 50dc4046ec885f9d8e616c8e9e024b74e8a298
 [AutoPush] Cambio detectado: DELETE tmp_obj_iOa2Mg
+[AutoPush] Cambio detectado: CREATE HEAD.lock
