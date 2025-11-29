@@ -5940,3 +5940,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE 3b64619592228cf5f3ff2f6a1d6aae165a5a49
 [AutoPush] Cambio detectado: DELETE tmp_obj_1bJQdG
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: CREATE index.lock
