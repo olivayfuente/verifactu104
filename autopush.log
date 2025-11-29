@@ -2242,3 +2242,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY autopush.log
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE tmp_obj_oyEN3g
+[AutoPush] Cambio detectado: MODIFY tmp_obj_oyEN3g
