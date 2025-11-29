@@ -2859,3 +2859,4 @@ Watches established.
 [AutoPush] Cambio detectado: MODIFY tmp_obj_n5kzMQ
 [AutoPush] Cambio detectado: CREATE 31232a5f10cc883fc9a087b73fe9bb62b4797c
 [AutoPush] Cambio detectado: DELETE tmp_obj_n5kzMQ
+[AutoPush] Cambio detectado: MODIFY index.lock
