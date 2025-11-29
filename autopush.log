@@ -1,0 +1,7 @@
+nohup: ignoring input
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+[AutoPush] Cambio detectado: MODIFY autopush.log
+fatal: Unable to create '/usr/share/dolibarr/custom/verifactu/.git/index.lock': Permission denied
+[AutoPush] Cambio detectado: MODIFY autopush.log
+fatal: Unable to create '/usr/share/dolibarr/custom/verifactu/.git/index.lock': Permission denied
