@@ -1950,3 +1950,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE tmp_obj_sgXETx
 [AutoPush] Cambio detectado: MODIFY tmp_obj_sgXETx
 [AutoPush] Cambio detectado: CREATE 12f3621e83641df75564e0c26758e775c5c761
+[AutoPush] Cambio detectado: DELETE tmp_obj_sgXETx
