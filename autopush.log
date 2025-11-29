@@ -1646,3 +1646,4 @@ Watches established.
 [AutoPush] Cambio detectado: CREATE index.lock
 [AutoPush] Cambio detectado: CREATE,ISDIR fe
 [AutoPush] Cambio detectado: MODIFY index.lock
+[AutoPush] Cambio detectado: MODIFY COMMIT_EDITMSG
